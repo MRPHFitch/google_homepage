@@ -1,1 +1,1 @@
-I am attempting to destroy a google website, and then rebuild it again. We'll see how it goes.
+I am attempting to create the Google Homepage. Here goes nothing.
